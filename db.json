@@ -1,0 +1,28 @@
+{
+  "users": [],
+  "catalog": [
+    {
+      "id": 1,
+      "title": "iPhone 11",
+      "price": 42140,
+      "memory": [
+        {"id": 1, "size": 64},
+        {"id": 2, "size": 128}
+      ],
+      "colors": [
+        {"id": 1, "name": "Black"},
+        {"id": 2, "name": "White"}
+      ],
+      "images": [
+        {"id": 1, "url": "https://istore.kg/media/products/11-white_6A7orer.webp"}
+      ],
+      "category": {"id": 1, "title": "iPhone"}
+    }
+  ],
+  "categories": [
+    {"id": 1, "title": "iPhone"},
+    {"id": 2, "title": "iPad"},
+    {"id": 3, "title": "MacBook"}
+  ],
+  "orders": []
+}
